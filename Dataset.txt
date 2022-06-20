@@ -1,0 +1,2 @@
+▪ Dataset : https://www.kaggle.com/datasets/hereisburak/pins-face-recognition
+▪ Code Source dans Kaggle : https://www.kaggle.com/brahimlaghzaoui/laghzaoui-brahim/edit
